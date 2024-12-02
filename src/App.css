@@ -1,0 +1,43 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.dropdown {
+  margin: 20px 0;
+}
+
+label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+select {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.item-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item-list li {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 10px;
+  text-align: left;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item-list li strong {
+  color: #0073e6;
+}
